@@ -4,4 +4,6 @@ function narcissistic(value) {
     return narc === value;
 }
 
-console.log(narcissistic(40))
+console.log(narcissistic(4012))
+console.log(narcissistic(153))
+console.log(narcissistic(371))
